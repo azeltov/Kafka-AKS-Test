@@ -1,0 +1,16 @@
+{
+  "name": "kafkaakstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "kafka-node": "^2.4.1",
+    "socket.io": "^2.0.4"
+  }
+}
