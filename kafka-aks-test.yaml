@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: kafka-aks-test
-          image: larryacr0201.azurecr.io/kafka-aks-test:v1
+          image: microsoft/kafka-aks-test:v1
           ports:
             - containerPort: 80
           resources:
